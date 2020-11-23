@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<personen>
+    <persoon>
+        <naam>Bram van Rhee</naam>
+        <geslacht>man</geslacht>
+        <haarkleur>blond</haarkleur>
+        <leeftijd>18</leeftijd>
+        <lichaamslengte>183</lichaamslengte>
+    </persoon>
+    <persoon>
+        <naam>Jeffrey Meijer</naam>
+        <geslacht>man</geslacht>
+        <haarkleur>blond</haarkleur>
+        <leeftijd>18</leeftijd>
+        <lichaamslengte>175</lichaamslengte>
+    </persoon>
+    <persoon>
+        <naam>Johan van Rhee</naam>
+        <geslacht>man</geslacht>
+        <haarkleur>blond</haarkleur>
+        <leeftijd>50</leeftijd>
+        <lichaamslengte>182</lichaamslengte>
+    </persoon>
+    <persoon>
+        <naam>Ingrid Hiddema</naam>
+        <geslacht>vrouw</geslacht>
+        <haarkleur>bruin</haarkleur>
+        <leeftijd>43</leeftijd>
+        <lichaamslengte>172</lichaamslengte>
+    </persoon>
+    <persoon>
+        <naam>Marinde Wiersema</naam>
+        <geslacht>vrouw</geslacht>
+        <haarkleur>blond</haarkleur>
+        <leeftijd>17</leeftijd>
+        <lichaamslengte>170</lichaamslengte>
+    </persoon>
+    <persoon>
+        <naam>Samara Blijleven</naam>
+        <geslacht>vrouw</geslacht>
+        <haarkleur>bruin</haarkleur>
+        <leeftijd>16</leeftijd>
+        <lichaamslengte>169</lichaamslengte>
+    </persoon>
+    <persoon>
+        <naam>Daniel Knap</naam>
+        <geslacht>man</geslacht>
+        <haarkleur>donker bruin</haarkleur>
+        <leeftijd>19</leeftijd>
+        <lichaamslengte>182</lichaamslengte>
+    </persoon>
+    <persoon>
+        <naam>Floortje Klei</naam>
+        <geslacht>vrouw</geslacht>
+        <haarkleur>blond</haarkleur>
+        <leeftijd>17</leeftijd>
+        <lichaamslengte>185</lichaamslengte>
+    </persoon>
+</personen>
